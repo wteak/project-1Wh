@@ -1,0 +1,3 @@
+[submodule "NILM-Predict-AI"]
+	path = NILM-Predict-AI
+	url = https://github.com/wteak/NILM-Predict-AI.git
