@@ -1,3 +1,6 @@
 [submodule "NILM-Predict-AI"]
 	path = NILM-Predict-AI
 	url = https://github.com/wteak/NILM-Predict-AI.git
+[submodule "Crank-Power-Analytics"]
+	path = Crank-Power-Analytics
+	url = https://github.com/wteak/Crank-Power-Analytics.git
